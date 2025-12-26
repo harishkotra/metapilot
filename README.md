@@ -325,15 +325,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Envio** for HyperSync blockchain indexing infrastructure
 - **Base** for EIP-7702 compatible testnet infrastructure
 - **Ethereum Foundation** for ERC-7715 Advanced Permissions standard
-- **Gaia** for decentralized AI infrastructure
-
-## 📞 Support
-
-For questions, issues, or contributions:
-- **GitHub Issues**: [Create an issue](https://github.com/your-username/metapilot/issues)
-- **Documentation**: Check the `/docs` folder for detailed guides
-- **Community**: Join our discussions in GitHub Discussions
-
----
-
-**MetaPilot** - Empowering users with AI-driven wallet automation while maintaining full custody and control.
+- **Gaia** for decentralized AI infrastructure with OpenAI compatible APIs.
