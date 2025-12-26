@@ -11,6 +11,14 @@ MetaPilot is a cutting-edge decentralized application that enables users to gran
 - **Transparent Automation**: Every AI decision is explainable and auditable
 - **Risk Management**: Least-privilege permissions with automatic expiration
 
+### Screenshots
+
+<img width="3808" height="2396" alt="screencapture-localhost-3000-2025-12-27-01_29_33" src="https://github.com/user-attachments/assets/57126571-7315-4252-9daf-61a95315f411" />
+<img width="3808" height="2672" alt="screencapture-localhost-3000-dashboard-2025-12-27-01_28_34" src="https://github.com/user-attachments/assets/5994adc4-3d82-44c6-9bd4-940c6324b7e8" />
+<img width="3808" height="2396" alt="screencapture-localhost-3000-dashboard-2025-12-27-01_28_28" src="https://github.com/user-attachments/assets/020293bd-8ee9-4c83-ad43-f5f20d64534e" />
+<img width="3808" height="2396" alt="screencapture-localhost-3000-dashboard-2025-12-27-01_28_21" src="https://github.com/user-attachments/assets/e59888ce-f9dd-412d-b980-53ba6a3a0c1f" />
+<img width="3808" height="2488" alt="screencapture-localhost-3000-dashboard-2025-12-27-01_28_15" src="https://github.com/user-attachments/assets/1c9b6d24-d70a-4cfb-8042-3d12cee1ff7a" />
+
 ## 🏗️ Architecture Overview
 
 ### Frontend Stack
